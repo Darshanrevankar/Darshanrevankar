@@ -5,12 +5,6 @@ I am a Java Full Stack & DevOps Specialist with expertise in React.js, Node.js, 
 
 ## 🚀 Skills
 
-## 🚀 Skills
-
-## 🚀 Skills
-
-## 🚀 Skills
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
